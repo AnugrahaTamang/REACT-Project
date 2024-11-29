@@ -1,0 +1,21 @@
+*{
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+.testimonials{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color: gray;
+  color: #fff;
+  position: relative;
+  top: 300px;
+}
+.testimonials-quote{
+  font-size: large;
+}
+.btn{
+  display: flex;
+  gap: 300px;
+}
